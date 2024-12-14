@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Description
+A sample application for auth flow (login, signup) which easily generates jwt tokens.
+
 ## env
 
 Make sure to create a .env file in the root folder.
