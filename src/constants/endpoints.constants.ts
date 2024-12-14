@@ -1,6 +1,6 @@
-export const PROTOCOL = "https://";
+export const PROTOCOL = "http://";
 export const IP = "localhost:";
-export const PORT = "5000";
+export const PORT = "3000";
 export const BEARER = "Bearer";
 export const AUTH_LOGIN = PROTOCOL + IP + PORT + "/auth/login";
 export const AUTH_SIGNUP = PROTOCOL + IP + PORT + "/auth/signup";

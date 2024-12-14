@@ -9,7 +9,7 @@ export const ErrorFallback = () => {
           <Navbar.Brand href="/home">
             <img
               alt=""
-              src="/easygenerator.png"
+              src="/logo192.png"
               width="30"
               height="30"
               className="d-inline-block align-top"
