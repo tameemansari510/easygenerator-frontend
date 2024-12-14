@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Make sure to create a .env file in the root folder.
 Make sure to have these keys in it HTTPS, PORT, HOST
+HTTPS=either true or false
+PORT=desired port value to run the application
+HOST=desired host value to run the application
 
 ## Available Scripts
 
